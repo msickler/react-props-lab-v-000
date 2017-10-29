@@ -15,3 +15,12 @@ Spaceship.defaultProps = {
   hasRockets= {false}
   colors = {['black', 'red']}
 }
+
+ReactDOM.render(
+  <Spaceship
+    name=""
+    speed={}
+    hasRockets={}
+    colors={}
+    />
+)
